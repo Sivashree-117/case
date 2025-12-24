@@ -1,8 +1,8 @@
 #login.py
 def login(username, password):
     # Predefined credentials (for demo purpose)
-    stored_username = "branch1"
-    stored_password = "branch123"
+    stored_username = "branch2"
+    stored_password = "admin123"
 
     if username == stored_username and password == stored_password:
         return "Login successful"
